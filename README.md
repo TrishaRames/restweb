@@ -28,8 +28,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
-'''
-food.html
+```
 
 <!DOCTYPE html>
 <html lang="en">
@@ -698,6 +697,7 @@ contact.html
 </footer>
 </body>
 </html>
+```
 
 ## OUTPUT:
 ![Screenshot (49)](https://github.com/user-attachments/assets/c44cd286-fcc0-4b68-aad0-9aa4eb9b8770)
